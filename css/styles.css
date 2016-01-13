@@ -1,0 +1,9 @@
+.heightcheck input {
+  font-size: 2em;
+}
+.whirlaround, .rollercoaster, .teacups, .bumpercars, .zipper {
+  display: none;
+  padding:10px;
+  border-radius: 10px;
+  border:2px solid black;
+}
